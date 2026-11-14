@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this scan or its data, please cite it as below."
+title: "Memory writes in open-source agent frameworks: a static scan (November 2026)"
+type: dataset
+authors:
+  - family-names: Gudur
+    given-names: Vaishnavi
+    orcid: "https://orcid.org/0009-0009-6510-3127"
+date-released: 2026-11-14
+version: "1.0"
+license: CC-BY-4.0
+repository-code: "https://github.com/vgudur-dev/agent-memory-write-scan"
+keywords:
+  - AI agents
+  - agent memory
+  - memory poisoning
+  - static analysis
+  - OWASP ASI06

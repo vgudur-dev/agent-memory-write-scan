@@ -1,0 +1,11 @@
+{
+  "py_files": 30071,
+  "library_py_files": 14269,
+  "memory_modules": 308,
+  "write_sites": 221,
+  "with_indicator": 27,
+  "without_indicator": 194,
+  "with_security_indicator": 5,
+  "repos": 20,
+  "repos_with_sites": 15
+}
